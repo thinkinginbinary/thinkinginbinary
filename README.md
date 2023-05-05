@@ -1,5 +1,6 @@
 
-[comment]: # ![Matt's Blue/Black Github Readme Banner](https://pasteboard.co/VSDZUs0FwfnS.png "Matt's Github Banner")
+<!--- ![Matt's Blue/Black Github Readme Banner](https://pasteboard.co/VSDZUs0FwfnS.png "Matt's Github Banner")
+--> 
 
 # Who is Matt Shaver? (A short novel)🤵 
 
