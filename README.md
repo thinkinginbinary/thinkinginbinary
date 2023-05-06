@@ -1,5 +1,4 @@
-<!---![Matt's Blue/Black Github Readme Banner]() "Matt's Github Banner")
---->
+![Matt's Blue/Black Github Readme Banner](  https://github.com/thinkinginbinary/thinkinginbinary/blob/c59bcce756e289b37740c61e9dbfa559b76f854c/github-cover-photo.png "Matt's Github Banner")
 
 # Who is Matt Shaver? (A short novel)🤵 
 
