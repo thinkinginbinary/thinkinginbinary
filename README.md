@@ -1,8 +1,53 @@
 ![Matt's Blue/Black Github Readme Banner](  https://github.com/thinkinginbinary/thinkinginbinary/blob/c59bcce756e289b37740c61e9dbfa559b76f854c/github-cover-photo.png "Matt's Github Banner")
 
-# Who is Matt Shaver? (A short novel)🤵 
+# Fast Notes
 
-Matt Shaver is a FinTech engineer interested in working remotely/in person/hybridly in many different business hubs/locations including Dubai, London, Brussels, Rotterdam, Singapore, Zurich, Hong Kong. Tokyo, Medellin, Gothenberg, Sao Paulo, Tel Aviv, Berlin, & Paris due to a deep level of personal enthusiasm for travel, conputer science, finance, economics, culture & international communications. He enjoys approaching complex real world individual, societal & governmental financial/communication challenges, communicating potentially better communication/financial solutions on an individual/societal/governmental level & studying communication gaps between non governmental/governmental individuals, organisations & companies including NGOs, IGOs & MNCs in order to help build improved Communicatioms, Financial technology solutions that synergise well wkth humanity. Matt enjoys having a great understanding of ethics that leads to knowing that people/profitability/non governmental/governmental individuals/organisations can work together unilaterally/synergistically in financial markets, world economies & whilst communicating with each other in often complex multi-layered social exchanges. 
+### Currently
+LF Fintech/QuantFi/World Econ team
+
+### Languages
+C#, C++, C, Rust, Javascript, Python, Solidity. SQL, basically every programming language (macros are nice & concepts translate.)
+
+### Products/Services
+NFT Marketplace(s), Web3 DAO(s), local crypto dev enviroments, 
+crypto dev processes, smart contracts, blockchain consulting, 
+crypto security workfows, testing workflows/ 
+automation processes,Web3 MMO, Web3 social work app,
+AI/DAO tooling, business development, blockchain ecosystem, 
+bringing together diverse communities via product design/dev,  SMM & communications frameworks. 
+
+### Tools
+
+Every popular design tool, most popular dev flow tools, most popular 
+CI/CD tools, most popular OS(s) including Linux, many popular IDEs/Browsers, most popular code testing tools, 
+most popular project management tools, 
+
+### Contact
+ Adding this later. 
+
+# Who is Matt Shaver? (A short encyclopedia)🤵 
+Matt Shaver is a FinTech engineer who seeks to discover a team im interesting fields related to Finance, Fintech, & World  Economics. 
+
+Matt is intrigued by flexible dynamic teams compositioned or composed of unique individuals from..
+
+He is interested in existing collabortively symmetrically in remote esque hybrid like or on spot team zoos. 
+
+These team zoos may be happening in many different likely physical potentialities including:
+
+Dubai, London, Brussels, Rotterdam, Singapore, Zurich, Hong Kong. Tokyo, Medellin, Gothenberg, Sao Paulo, Tel Aviv, Berlin, & Paris.
+
+Posessing a sub ocean level of personal enthusiasm that often on Tuesdays includes questionable levels of 
+travel, computer science, finance, 
+economics, culture ... 
+international communications. 
+
+He enjoys dancing within the realms of  powerful life 
+affecting possibly inter dimensional, reality related individual, 
+societal & governmental financial/communication ... great challenges. 
+
+Matt enjoys bringing creativity into outgoing or possibly introverted hopefully not communications bundles connecting to a gigantic herbivoric forray of individual, societal & governmental ... grand likely economic problem domains.  
+
+Matt enjoys studying communication gaps between non governmental/governmental individuals, organisations & companies including NGOs, IGOs & MNCs in order to help build improved Communicatioms, Financial technology solutions that synergise well wkth humanity. Matt enjoys having a great understanding of ethics that leads to knowing that people/profitability/non governmental/governmental individuals/organisations can work together unilaterally/synergistically in financial markets, world economies & whilst communicating with each other in often complex multi-layered social exchanges. 
 
 Matt's educational background is a mix of formal, autodidactic, & casual/work education that has been derived from community colleges, formal educational institutions, research papers/projects, experience working as a freelancer/web agency employee/at a Fortune 500 company, experience building teams/products in the startup space, social data analysation, time spent studying existing software/technology approaches to the challenges that arise in the midst of financial systems, market/world economics & time spent studying/comparing products/companies/solutions to those same communications/economic/finance challenges. 
 
@@ -37,6 +82,7 @@ During the Ukraine crisis Matt worked on developing a communications framework, 
 Matt is interested in working with established companies, orgs who focus on world economics, trade, trading systems, global, international development, global & international research in the business areas where international Finance organisations, technology companies need help the most. 
 
 Matt is primarily interested in new remote/in person/hybrid Software Engineering roles in Quantitative Finance, Trading, Finance, International Economics/Financial development, Global Economics/Financial Development organisations & companies. He has narrowed down the number of companies he is interested in working for to primarily established quantitative finance companies with some exceptions in other industries, technology areas & other organisation types. Matt understands how to research companies, products, & leverage BI/BD data to make smart informed personal decisions. He doesn't mind wearing realistically defined hats in order to meet changing business needs or demands. 
+
 
 ### Hobbies/Fun Endeavours 🎨 
 
