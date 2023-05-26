@@ -1,9 +1,5 @@
-![Matt's Blue/Black Github Readme Banner](  https://github.com/thinkinginbinary/thinkinginbinary/blob/c59bcce756e289b37740c61e9dbfa559b76f854c/github-cover-photo.png "Matt's Github Banner")
-
-# Fast Notes
-
 ### Currently
-LF Fintech/QuantFi/World Econ team
+LF Great Team to join. I am up to wear many hats as needed. If you have meta interview processes or can just offer me a spot on the team right away +1(I am selectively up for paid trial work periods.). 
 
 ### Languages
 C#, C++, C, Rust, Javascript, Python, Solidity. SQL, basically every programming language (macros are nice & concepts translate.)
@@ -23,10 +19,10 @@ CI/CD tools, most popular OS(s) including Linux, many popular IDEs/Browsers, mos
 most popular project management tools, 
 
 ### Contact
- Adding this later. 
+Adding this later. 
 
 # Who is Matt Shaver? (A short encyclopedia)🤵 
-Matt Shaver is a FinTech engineer who seeks to discover a team im interesting fields related to Finance, Fintech, & World  Economics. 
+Matt Shaver is an engineer who seeks to discover a team im interesting fields related to Finance, Fintech, & World  Economics. 
 
 Matt is intrigued by flexible dynamic teams compositioned or composed of unique individuals from..
 
@@ -90,7 +86,7 @@ Matt has many hobbies including self experimentation, playing chess, gaming, gui
 
 Matt previously explored building a digital philosophy school, worked on music production using DAWs such as Ableton/Reaper/Audacity & more, explored creating a new way to play guitar, created new yoga positions, explored developing nerdy languages similar to Elvish, has attended some dance events/parties/salsa lessons, enjoyed hiking/soccer/basketball, enjoyed visiting libraries/museums, attended sports events, worked on building a Web3 MMO, experimented with diet, art, music, physical movement, sleep cycles, lucid dreaming & a myriad of other areas as well as spent a good chunk of time binging online media including TV series, Films such as LOTR, Harry Potter Star Wars, Marvel, GoT, indie films, crime dramas & fantasy based films/series & in depth documentaries in different areas. 
 
-If you take the time to read all of this, thank you. I will try to make time to update my Github bio again once I am employed in a new position.
+If you take the time to read all of this, thank you. I will try to make time to update my Github bio again once I am part of a new team. 
 
 <!--
 **thinkinginbinary/thinkinginbinary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
